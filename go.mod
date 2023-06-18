@@ -1,4 +1,4 @@
-module peekeah/qr-code-generator
+module peekeah/qr-generator
 
 go 1.20
 

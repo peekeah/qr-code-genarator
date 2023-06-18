@@ -5,12 +5,12 @@ A Golang app to generate QR code.
 ## Installation
  1. Clone the repository
  ```sh
-    git clone https://github.com/peekeah/qr-code-generator 
+    git clone https://github.com/peekeah/qr-generator 
  ```
 
  2. Go to the project folder
  ```sh
-    cd qr-code-generator
+    cd qr-generator
  ```
 
  3. Build the app
@@ -20,7 +20,7 @@ A Golang app to generate QR code.
 
 4. Run the app
 ```sh
-    ./qr-code-generator.exe
+    ./qr-generator.exe
 ```
 
 
